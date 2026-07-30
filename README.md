@@ -1,4 +1,8 @@
 # 👋 Hi, I'm Mohammed Aiman
+![Network Engineer](https://img.shields.io/badge/Role-Network%20Engineer-blue)
+![Cybersecurity](https://img.shields.io/badge/Focus-Cybersecurity-red)
+![Open Source](https://img.shields.io/badge/Contributor-Open%20Source-green)
+
 
 ## 🌐 About Me
 
@@ -77,5 +81,13 @@ GitHub:
 https://github.com/mohammedaiman571-arch
 
 ---
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohammedaiman571-arch&show_icons=true&theme=transparent)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedaiman571-arch&layout=compact&theme=transparent)
 
 ⭐ Building secure and scalable network solutions through continuous learning.
